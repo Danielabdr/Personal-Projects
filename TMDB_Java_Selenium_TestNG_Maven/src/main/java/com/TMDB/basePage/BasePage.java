@@ -1,4 +1,4 @@
-package com.TMDB.pages;
+package com.TMDB.basePage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
